@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aningaaq-jekyll.github.io/blog2/sitemap.xml
