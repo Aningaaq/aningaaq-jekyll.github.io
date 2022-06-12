@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: aningaaq.github.io/blog2/sitemap.xml
